@@ -33,7 +33,7 @@ header {
   margin: 20px auto;
   background: transparent;
   width: 400px;
-  height: 150px;
+  height: 100%;
 }
 
 #quote p {
