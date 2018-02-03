@@ -12,7 +12,7 @@ New share window is opened with width:700 and height:400 defined inside the .js 
 
 The project fulfills the provided user stories:
 
-*User Story: I can click a button to show me a new random quote.*
+*User Story: I can click a button to show me a new random quote.* <br>
 *User Story: I can press a button to tweet out a quote.*
 
 **Codepen** link to quickly see how it looks and behaves: [codepen link](https://codepen.io/matijagalina/pen/bLVBxE)
