@@ -2,7 +2,7 @@
 
 Simple website which uses random quote generator - **API** found [here](https://random-quote-generator.herokuapp.com/).
 
-![Screenshot](img/screenshot.png)
+![Screenshot](https://github.com/matijagalina/RandomQuoteMachine-FCC/blob/master/img/screenshot.PNG)
 
 It uses **jQuery** and **ajax** for fetching the data from API and showing it inside the container by clicking on the *Next quote* button.
 
