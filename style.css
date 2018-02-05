@@ -33,6 +33,7 @@ header {
   margin: 20px auto;
   background: transparent;
   width: 400px;
+  min-height: 150px;
   height: 100%;
 }
 
